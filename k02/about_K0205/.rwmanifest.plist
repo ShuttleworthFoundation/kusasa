@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>page70</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2008-08-28T06:13:08Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>388E3977-F0CD-451E-9A69-F2D6975075CD</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>about_K0205.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					utVKL5QiMFydc3gy/S2Esg==
+					</data>
+					<key>Size</key>
+					<integer>11909</integer>
+				</dict>
+				<key>files/K0205etoy.png</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					mFi0iRAGcTve93X82xKhNA==
+					</data>
+					<key>Size</key>
+					<integer>33979</integer>
+				</dict>
+				<key>files/Page_00.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					L/SOQV9FssDi+300dn5i5A==
+					</data>
+					<key>Size</key>
+					<integer>54627</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>page70</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>page1</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2008-08-28T06:14:44Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>388E3977-F0CD-451E-9A69-F2D6975075CD</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>download_IS.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					ds9DgyNSVCCVF1g1c6pv1g==
+					</data>
+					<key>Size</key>
+					<integer>9275</integer>
+				</dict>
+				<key>files/KIS01 Classifying Things.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					KLcb5owbtpDuePsMTRpLGQ==
+					</data>
+					<key>Size</key>
+					<integer>3877976</integer>
+				</dict>
+				<key>files/KIS02 Concept Mapping.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					cpiGsII2bce/GYP9mE9K6w==
+					</data>
+					<key>Size</key>
+					<integer>3458313</integer>
+				</dict>
+				<key>files/KIS03 Defining Things.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					E3mcEk0Gt9B4M/aznp33Qw==
+					</data>
+					<key>Size</key>
+					<integer>3808949</integer>
+				</dict>
+				<key>files/KIS04 Generating New Ideas.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					bN709uHJXZLT6Bb2qNMO+g==
+					</data>
+					<key>Size</key>
+					<integer>4764630</integer>
+				</dict>
+				<key>files/KIS06 Mind Mapping.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					k8vOeAX2TBpNbxVZHXWfIg==
+					</data>
+					<key>Size</key>
+					<integer>4503401</integer>
+				</dict>
+				<key>files/KIS07 Reading Appreciation.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					5kKDMb9ZRSubv7+z92WMNw==
+					</data>
+					<key>Size</key>
+					<integer>3682590</integer>
+				</dict>
+				<key>files/KIS08 Scientific Method.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					ihjHKpcgz2NUIMp47hb0vA==
+					</data>
+					<key>Size</key>
+					<integer>3467707</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>page1</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>

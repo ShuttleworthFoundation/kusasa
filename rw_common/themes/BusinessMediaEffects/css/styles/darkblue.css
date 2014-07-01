@@ -1,0 +1,156 @@
+body {
+	background-color: #14191e;
+}
+
+a,
+a:visited {
+	color: #de7b2c;
+}
+
+#container,
+#navcontainer ul ul {
+	background-image: url(../../images/sidebar_bg.png);
+}
+
+#pageHeader,
+#fader {
+	background: url(../../images/header_bg.png) repeat-x;
+}
+
+#pageHeader #title {
+	background: url(../../images/title_bg.png) repeat-x;
+}
+
+#pageHeader #title h2 {
+	color: #434d59;
+	text-shadow: 1px 1px 1px #242a31;
+}
+
+#sidebarContainer .sideHeader,
+#sidebarContainer h1,
+#sidebarContainer h2,
+#sidebarContainer h3,
+#sidebarContainer h4,
+#sidebarContainer b,
+#sidebarContainer strong {
+	color: #de7b2c;
+}
+
+#footer {
+	background: #181e25;
+}
+
+.blog-entry-date {
+	background: url(../../images/date_white.png) no-repeat left 2px;
+}
+
+.blog-entry-category {
+	background: url(../../images/folder_white.png) no-repeat left center;
+}
+
+.blog-entry-permalink {
+	background: url(../../images/permalink_white.png) no-repeat left center;
+}
+
+a[href^="javascript:HaloScan"] {
+	background: url(../../images/comment_bubble.png) no-repeat left 1px;
+}
+
+a[href^="javascript:HaloScanTB"] {
+	background: url(../../images/trackback.png) no-repeat left 2px;
+}
+
+a.blog-archive-link-enabled {
+	background: url(../../images/date.png) no-repeat 5px center;
+	border-bottom-color: #485058;
+}
+
+a.blog-archive-link-enabled:hover {
+	background-color: #283139;
+}
+
+.blog-archive-link-disabled {
+	background: url(../../images/date.png) no-repeat 5px center;
+	border-bottom-color: #485058;
+}
+
+a.blog-category-link-enabled {
+	background: url(../../images/folder.gif) no-repeat 5px center;
+	border-bottom-color: #485058;
+}
+
+a.blog-category-link-enabled:hover {
+	background-color: #283139;
+}
+
+.blog-category-link-disabled {
+	background: url(../../images/folder.gif) no-repeat 5px center;
+	border-bottom-color: #485058;
+}
+
+ul.blog-tag-cloud {
+	border-bottom-color: #485058;
+}
+
+a.blog-rss-link,
+a.blog-comments-rss-link {
+	border-bottom-color: #485058;
+}
+
+a.blog-rss-link:hover,
+a.blog-comments-rss-link:hover {
+	background-color: #283139;
+}
+
+.blog-entry-title a,
+.blog-archive-month,
+.album-title,
+.movie-page-title,
+h1,
+h2,
+h3,
+h4,
+h5 {
+	color: #414a54;
+}
+
+#navcontainer #current,
+#navcontainer .currentAncestor,
+#navcontainer a:hover {
+	border-bottom-color: #56616f;
+	color: #5c6877;
+}
+
+#navcontainer ul ul {
+	background-color: #141b22;
+}
+
+.photo-navigation {
+	background: url(../../images/header_bg.png) repeat-x;
+}
+
+.photo-links {
+	color: #1e2933;
+}
+
+.photo-navigation a:link,
+.photo-navigation a:visited {
+	border-bottom-color: #56616f;
+}
+
+.photo-navigation a:hover {
+	color: #5c6877;
+}
+
+.photo-title {
+	background: url(../../images/title_bg.png) repeat-x;
+}
+
+.photo-caption {
+	color: #434d59;
+	text-shadow: 1px 1px 1px #242a31;
+}
+
+.movie-frame {
+	background-color: #1d242c;
+}

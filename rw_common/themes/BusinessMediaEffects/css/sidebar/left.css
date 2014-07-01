@@ -1,0 +1,27 @@
+#container {
+	background-position: left;
+}
+
+#contentContainer {
+	margin-left: 280px;
+}
+
+#contentContainer #content {
+}
+
+#sidebarContainer,
+#footer {
+	float: left;
+}
+
+#pageHeader #title {
+	left: 0;
+}
+
+#navcontainer {
+	margin-left: 280px;
+}
+
+#navcontainer ul ul {
+	background-image: none;
+}

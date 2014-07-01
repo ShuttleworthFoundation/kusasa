@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>page21</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2008-08-28T06:16:18Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>388E3977-F0CD-451E-9A69-F2D6975075CD</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>download_etoys.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					dNYrGYvRwp8Naw5OVGY75A==
+					</data>
+					<key>Size</key>
+					<integer>14445</integer>
+				</dict>
+				<key>files/K0101 Kusasa.004.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					RH8eVBmOCGIo+YPdr30+0w==
+					</data>
+					<key>Size</key>
+					<integer>2533926</integer>
+				</dict>
+				<key>files/K0102 Hot Rod.005.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					DrVitZNviKwgYMKsGGsqdQ==
+					</data>
+					<key>Size</key>
+					<integer>1195416</integer>
+				</dict>
+				<key>files/K0104 Shapes.003.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					Z925ybsKglW/kA3h4vV5qw==
+					</data>
+					<key>Size</key>
+					<integer>821294</integer>
+				</dict>
+				<key>files/K0105 Bounce.006.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					D5iLBfzGp4WwuPV29NFgUw==
+					</data>
+					<key>Size</key>
+					<integer>1171670</integer>
+				</dict>
+				<key>files/K0106 Book.007.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					tk5GLRQ/5QL7mTj8GhZyAQ==
+					</data>
+					<key>Size</key>
+					<integer>1980220</integer>
+				</dict>
+				<key>files/K0107 Domino.006.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					u0reblivOfUekItUWSET0w==
+					</data>
+					<key>Size</key>
+					<integer>1390356</integer>
+				</dict>
+				<key>files/K0201 Aquarium.002.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					3TiZsDt5hKlXloYfOodU0A==
+					</data>
+					<key>Size</key>
+					<integer>1416784</integer>
+				</dict>
+				<key>files/K0202 Mosaic.008.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					GEfBw7UojoOfLOYQrmAJVg==
+					</data>
+					<key>Size</key>
+					<integer>1228751</integer>
+				</dict>
+				<key>files/K0203 Gladiator.004.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					KJyWn0E6/mtPSfxgQ4OrQA==
+					</data>
+					<key>Size</key>
+					<integer>1609432</integer>
+				</dict>
+				<key>files/K0204 Balloon.007.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					7uZrtahZ1B5cc//SvX+cRg==
+					</data>
+					<key>Size</key>
+					<integer>1380080</integer>
+				</dict>
+				<key>files/K0205 Magnet.005.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					ue3R0kM8zZWLpth6cxI9fw==
+					</data>
+					<key>Size</key>
+					<integer>1046906</integer>
+				</dict>
+				<key>files/K0206 Diamond.005.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					TvY0JbPtq9qxbBWqkmoU8w==
+					</data>
+					<key>Size</key>
+					<integer>615706</integer>
+				</dict>
+				<key>files/K0207 Volcano.005.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					azm/8BYMUuM/dxvG5yh4FQ==
+					</data>
+					<key>Size</key>
+					<integer>1803617</integer>
+				</dict>
+				<key>files/K0301 Wall.004.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					9nN/xCk03FWDLlvADOK1OQ==
+					</data>
+					<key>Size</key>
+					<integer>2752740</integer>
+				</dict>
+				<key>files/K0302 Questions.006.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					alR5P7QKAnixcapvKuXquw==
+					</data>
+					<key>Size</key>
+					<integer>6225656</integer>
+				</dict>
+				<key>files/K0303 Illusion.003.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					+jZ+cAcGwF9Cp1YbaKVmog==
+					</data>
+					<key>Size</key>
+					<integer>1767306</integer>
+				</dict>
+				<key>files/K0304 Powerboat.007.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					7mRU2gNXVUX49bnNRSciag==
+					</data>
+					<key>Size</key>
+					<integer>2029071</integer>
+				</dict>
+				<key>files/K0305 Shirts.003.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					YlkYI1XKwsVrwZdtbPHhpg==
+					</data>
+					<key>Size</key>
+					<integer>1209726</integer>
+				</dict>
+				<key>files/K0306 Basket.003.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					FBXgomDxGympRL9Zcbu06g==
+					</data>
+					<key>Size</key>
+					<integer>1158222</integer>
+				</dict>
+				<key>files/K0307 Dye.002.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					AKOYSZrpE9i8aWn9zZw0BA==
+					</data>
+					<key>Size</key>
+					<integer>1280959</integer>
+				</dict>
+				<key>files/KT001_Treasure.003.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					km6b8ey1h7raBfwl0Zi9Pg==
+					</data>
+					<key>Size</key>
+					<integer>777774</integer>
+				</dict>
+				<key>files/KT002_Fun_Sun.002.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					5LxhfNx4M5+JmaZPYuxJjw==
+					</data>
+					<key>Size</key>
+					<integer>983967</integer>
+				</dict>
+				<key>files/KT003_Puzzle.001.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					IVuP9Ic8EbdwZuon24Wg5g==
+					</data>
+					<key>Size</key>
+					<integer>909810</integer>
+				</dict>
+				<key>files/KT004_Trash.001.pr</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					RoZDuMdLvl4ZfufNF3+eWg==
+					</data>
+					<key>Size</key>
+					<integer>599586</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>page21</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>

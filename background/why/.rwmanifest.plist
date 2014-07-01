@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>page24</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2008-08-28T06:12:34Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>388E3977-F0CD-451E-9A69-F2D6975075CD</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>files/page24_1.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					LbIpjT3XXYK5gAmtqkQWXQ==
+					</data>
+					<key>Size</key>
+					<integer>24007</integer>
+				</dict>
+				<key>files/page24_2.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					Uyhbe1u/epMOU0+2Ozu1og==
+					</data>
+					<key>Size</key>
+					<integer>20384</integer>
+				</dict>
+				<key>files/page24_3.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					shfgJVa7Y+732lDwtmOvsg==
+					</data>
+					<key>Size</key>
+					<integer>19693</integer>
+				</dict>
+				<key>why.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					NYBEx9O2Ta5mE2PQDoV6IQ==
+					</data>
+					<key>Size</key>
+					<integer>12591</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>page24</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>

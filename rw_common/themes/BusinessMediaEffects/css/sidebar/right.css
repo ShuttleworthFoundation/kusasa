@@ -1,0 +1,17 @@
+#container,
+#navcontainer ul ul {
+	background-position: right;
+}
+
+#contentContainer {
+	margin-right: 280px;
+}
+
+#sidebarContainer,
+#footer {
+	float: right;
+}
+
+#pageHeader #title {
+	right: 0;
+}

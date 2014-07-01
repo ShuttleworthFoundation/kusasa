@@ -1,0 +1,15 @@
+#container {
+	background-image: none;
+}
+#sidebarContainer,
+#footer {
+	display: none;
+}
+
+#pageHeader #title {
+	right: 0;
+}
+
+#navcontainer ul ul {
+	background-image: none;
+}

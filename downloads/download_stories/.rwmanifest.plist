@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>page15</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2008-08-28T06:14:29Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>388E3977-F0CD-451E-9A69-F2D6975075CD</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>download_stories.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					ChNVAFg3P47nN3th0JYHgg==
+					</data>
+					<key>Size</key>
+					<integer>14355</integer>
+				</dict>
+				<key>files/K0101 The Thunderbolt Kids.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					wOPD5Yb7Uh/jF+PgNFIhjg==
+					</data>
+					<key>Size</key>
+					<integer>9256584</integer>
+				</dict>
+				<key>files/K0102 The Race.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					NSIBgT/38vqXh7HeBiju+g==
+					</data>
+					<key>Size</key>
+					<integer>9532315</integer>
+				</dict>
+				<key>files/K0103 The Lunar Menace.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					0+J2ckSvg08UT1WyrVmolA==
+					</data>
+					<key>Size</key>
+					<integer>9481040</integer>
+				</dict>
+				<key>files/K0104 The River of Dreams.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					EK6AMsdDSa3ELeb0f+IHng==
+					</data>
+					<key>Size</key>
+					<integer>4045328</integer>
+				</dict>
+				<key>files/K0105 Detective Sophie.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					nw1LufLss8bA57851d2HFg==
+					</data>
+					<key>Size</key>
+					<integer>4142442</integer>
+				</dict>
+				<key>files/K0106 Apple of Knowledge.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					Wd9vhxgd2WT6khcfbf1j5g==
+					</data>
+					<key>Size</key>
+					<integer>4042618</integer>
+				</dict>
+				<key>files/K0107 The Mushroom Effect.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					xUqxZPp39z9a031phqr52w==
+					</data>
+					<key>Size</key>
+					<integer>4315462</integer>
+				</dict>
+				<key>files/K0108 Trapped.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					vnhNk77VNcah4yuJNdWnDA==
+					</data>
+					<key>Size</key>
+					<integer>3255947</integer>
+				</dict>
+				<key>files/K0201 Fish and Frogs.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					k1brq06vj4guCfjdbxeJFA==
+					</data>
+					<key>Size</key>
+					<integer>10424212</integer>
+				</dict>
+				<key>files/K0202 The Forbidden Beach.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					lJxEWmdc7TRSIrESbK7gAg==
+					</data>
+					<key>Size</key>
+					<integer>8888116</integer>
+				</dict>
+				<key>files/K0203 The Game of Death.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					XKTrF4kKKspKTuI4OADpYw==
+					</data>
+					<key>Size</key>
+					<integer>4682344</integer>
+				</dict>
+				<key>files/K0204 The Balloon Bet.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					ZlFq1EjdHUr2Ce/e7LfwuA==
+					</data>
+					<key>Size</key>
+					<integer>9731687</integer>
+				</dict>
+				<key>files/K0205 Philosophers Stone.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					G7WkhnqUONcQAxMNwXZDAQ==
+					</data>
+					<key>Size</key>
+					<integer>9922665</integer>
+				</dict>
+				<key>files/K0206 Diamond Deception.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					s4nBdCKLjkHQpJvVjcy5+Q==
+					</data>
+					<key>Size</key>
+					<integer>10079095</integer>
+				</dict>
+				<key>files/K0207 The Volcano.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					1IAw5EAo1UANBHflYusbxA==
+					</data>
+					<key>Size</key>
+					<integer>10348312</integer>
+				</dict>
+				<key>files/K0208 Snakes Alive.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					X/S2C+GG/0VziWauBiyVXQ==
+					</data>
+					<key>Size</key>
+					<integer>4222367</integer>
+				</dict>
+				<key>files/K0301 The Last Straw.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					/lZP3MjsVvg6OOM05yDnuQ==
+					</data>
+					<key>Size</key>
+					<integer>9599945</integer>
+				</dict>
+				<key>files/K0302 The Trial.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					Yl1ublotQi+jmzHMFhKcGw==
+					</data>
+					<key>Size</key>
+					<integer>9042464</integer>
+				</dict>
+				<key>files/K0303 The Illusionist.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					LkFx/xbyPDKk/xZk+XEdHw==
+					</data>
+					<key>Size</key>
+					<integer>9507302</integer>
+				</dict>
+				<key>files/K0304 The Powerboat.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					0JYW8pEfxi171dBzRwoyoA==
+					</data>
+					<key>Size</key>
+					<integer>9413593</integer>
+				</dict>
+				<key>files/K0305 Ts in a Can.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					iW3/t2OV91fWUQwPX2uTnQ==
+					</data>
+					<key>Size</key>
+					<integer>9732226</integer>
+				</dict>
+				<key>files/K0306 Food for Thought.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					r4JJiuTEPPQ+adqlrEl31w==
+					</data>
+					<key>Size</key>
+					<integer>9118319</integer>
+				</dict>
+				<key>files/K0307 Chemistry Man.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					0UcjsVUI1APX8SA28XQRhA==
+					</data>
+					<key>Size</key>
+					<integer>9538763</integer>
+				</dict>
+				<key>files/K0308 The Astrologer.zip</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					ZVr9PFSeyVE4grdfZuResQ==
+					</data>
+					<key>Size</key>
+					<integer>8986554</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>page15</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>
